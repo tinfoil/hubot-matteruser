@@ -28,7 +28,7 @@
   },
   "main": "./src/matteruser",
   "dependencies": {
-    "mattermost-client": "^4.4.0",
+    "mattermost-client": "tinfoil/mattermost-client#0057b50765ec591f0a79cc99b0521932907b52db",
     "parent-require": "^1.0.0",
     "q": "^1.4.1"
   }
